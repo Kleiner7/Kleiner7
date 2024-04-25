@@ -5,7 +5,12 @@ I am passionate about using data, research, and evidence-based reasoning to driv
 
 I’m interested in using data to make informed decisions whether thats in a business context or within social research
 
-Reach me at gaklein77@gmail.com
+
+**Reach me at:**
+
+- Email: gaklein77@gmail.com
+- LinkedIn: www.linkedin.com/in/grayson-klein-626314287
+
 
 
 <!---
