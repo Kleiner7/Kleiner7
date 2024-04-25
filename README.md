@@ -1,4 +1,4 @@
-Hi, I’m Grayson Klein! (they/them)
+Hi, I’m Grayson Klein!
 
 I am a highly motivated aspiring Data Analyst with exceptional analytical and problem-solving abilities, possesing a BA in Sociology and Anthropology from McGill University.
 I am passionate about using data, research, and evidence-based reasoning to drive decision-making.
