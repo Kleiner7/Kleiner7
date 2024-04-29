@@ -3,8 +3,7 @@ Hi, I’m Grayson Klein!
 I am a highly motivated aspiring Data Analyst with exceptional analytical and problem-solving abilities, possesing a BA in Sociology and Anthropology from McGill University.
 I am passionate about using data, research, and evidence-based reasoning to drive decision-making.
 
-I’m interested in using data to make informed decisions whether thats in a business context or within social research
-
+I’m interested in using data to make informed decisions, whether in a business context or within social research.
 
 **Reach me at:**
 
